@@ -1,2 +1,2 @@
 # web-site-api-consumtion
-A simple website build with NodeJs to consume API's endpoints
+A simple website build with Javascript to consume API's endpoints
